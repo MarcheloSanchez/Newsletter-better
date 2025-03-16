@@ -1,7 +1,8 @@
-# Newsletter-better
+# Newsletter-better-editer
 
-This repository contains tools and scripts to automate the creation of newsletters from notes in Obsidian.
+This repository contains and scripts to automate the creation of newsletters from notes in Obsidian.
 
+edit
 ## Installation
 Clone the Repository:
 
